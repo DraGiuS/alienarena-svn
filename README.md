@@ -1,1 +1,1 @@
-# alienarena-svn
+# alienarena-svn Precompiled for ArchLinux
